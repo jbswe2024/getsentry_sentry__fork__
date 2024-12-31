@@ -1206,10 +1206,10 @@
   resolved "https://registry.yarnpkg.com/@biomejs/cli-win32-x64/-/cli-win32-x64-1.9.1.tgz#f754bb8a94f2dab6311eff39dc30c4a6aa0f5628"
   integrity sha512-liSRWjWzFhyG7s1jg/Bbv9FL+ha/CEd5tFO3+dFIJNplL4TnvAivtyfRVi/tu/pNjISbV1k9JwdBewtAKAgA0w==
 
-"@codecov/bundler-plugin-core@^1.2.0":
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/@codecov/bundler-plugin-core/-/bundler-plugin-core-1.2.0.tgz#4a896dd3bd9f9f98a60519aadcf8e3daff37ae5d"
-  integrity sha512-ublUP5V0tW6oDnaJ1UBWvEmVAkvMmPNEwWkpF+WwJSCBWNLvWrkSwG84S3Gt5Xbnh17xEyAxXBmNzF+mXVXBgw==
+"@codecov/bundler-plugin-core@^1.7.0":
+  version "1.7.0"
+  resolved "https://registry.yarnpkg.com/@codecov/bundler-plugin-core/-/bundler-plugin-core-1.7.0.tgz#5362cf332f38f2b9f1d30e81ce7fd47b531e3ebd"
+  integrity sha512-QsLwtwfy9KEe0CjqNE2Z/SPiCMn4CHAJ9cqTosZCX9YMKPi/WyFivv0pYE7CXA8ntG0l4Xc9kr36DUCuNRW0LQ==
   dependencies:
     "@actions/core" "^1.10.1"
     "@actions/github" "^6.0.0"
@@ -1218,12 +1218,12 @@
     unplugin "^1.10.1"
     zod "^3.22.4"
 
-"@codecov/webpack-plugin@^1.2.0":
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/@codecov/webpack-plugin/-/webpack-plugin-1.2.0.tgz#db0466f0494f9a141697af4665830c650d030991"
-  integrity sha512-yawRyKgC8tXj/C/UoTJ+kRMePfhkYJtJey+xmywRqmVmvbxQGnYFkg+Dzix/HxKt4iGpSwKT4p8Glz2MNQ7gTQ==
+"@codecov/webpack-plugin@^1.7.0":
+  version "1.7.0"
+  resolved "https://registry.yarnpkg.com/@codecov/webpack-plugin/-/webpack-plugin-1.7.0.tgz#32ab1c0858e8936d676e8f00d62ccc5a85279bf9"
+  integrity sha512-TN/PSukNfvhzMG0ur0G9cb65rQlID4pVRwi/T2PYCaE8/6jj+vL9mYIKX5Jdd1WTK7OcC1yVStn23L10vZkz1Q==
   dependencies:
-    "@codecov/bundler-plugin-core" "^1.2.0"
+    "@codecov/bundler-plugin-core" "^1.7.0"
     unplugin "^1.10.1"
 
 "@cspotcode/source-map-support@^0.8.0":
